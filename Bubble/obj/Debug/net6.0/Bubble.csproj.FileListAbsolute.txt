@@ -1,0 +1,15 @@
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\bin\Debug\net6.0\Bubble.exe
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\bin\Debug\net6.0\Bubble.deps.json
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\bin\Debug\net6.0\Bubble.runtimeconfig.json
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\bin\Debug\net6.0\Bubble.dll
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\bin\Debug\net6.0\ref\Bubble.dll
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\bin\Debug\net6.0\Bubble.pdb
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.csproj.AssemblyReference.cache
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.AssemblyInfoInputs.cache
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.AssemblyInfo.cs
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.csproj.CoreCompileInputs.cache
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.dll
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\ref\Bubble.dll
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.pdb
+D:\EDUCATION\FROG\PILOT\C#\BootCamp\Bubble\obj\Debug\net6.0\Bubble.genruntimeconfig.cache
